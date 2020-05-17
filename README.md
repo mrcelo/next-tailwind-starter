@@ -1,4 +1,4 @@
-Just a simple [Next.js](https://nextjs.org/) starter with [Tailwind CSS](https://tailwindcss.com/) and autoprefixer.
+Just a simple [Next.js](https://nextjs.org/) starter with [Tailwind CSS](https://tailwindcss.com/), autoprefixer and [Custom Forms](https://github.com/tailwindcss/custom-forms)
 
 ## Getting Started
 
